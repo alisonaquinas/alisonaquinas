@@ -5,4 +5,7 @@
 - 🌎 My Website: <https://www.alisonquinas.com/>
 - 🖇 My LinkedIn Profile <https://www.linkedin.com/in/alisonaquinas/>
 
+#### Projects:
+- 🤖 My LLM plugins / Skille: <https://alisonaquinas.github.io/llm-skills/> 
+
 <meta name="google-site-verification" content="InUPLs_XcPHvHBT5Fx3BFEzxuO9sIpAOPzzq4yC3_Dw" />
