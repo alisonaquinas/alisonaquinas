@@ -15,10 +15,4 @@
 | 🔢 **TinyQuant**             | Tiny quantization toolkit for models                      | [better-with-models/TinyQuant](https://github.com/better-with-models/TinyQuant)               |
 | 📝 **markdownlint-obsidian** | Markdownlint configuration tuned for Obsidian vaults      | [alisonaquinas/markdownlint-obsidian](https://github.com/alisonaquinas/markdownlint-obsidian) |
 
----
-
-#### 📊 GitHub Stats
-
-![Alison's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonaquinas&show_icons=true&theme=default)
-
 <meta name="google-site-verification" content="InUPLs_XcPHvHBT5Fx3BFEzxuO9sIpAOPzzq4yC3_Dw" />
