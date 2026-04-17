@@ -11,7 +11,7 @@
 
 | Project                     | Description                                               | Link                                                                                          |
 | :-------------------------- | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
-| 🤖 **LLM Plugins / Skills**  | Collection of plugins and skills for LLM-driven workflows | [alisonaquinas.github.io/llm-skills](https://alisonaquinas.github.io/llm-skills/)             |
+| 🤖 **LLM Plugins / Skills**  | Collection of plugins and skills for LLM-driven workflows | <https://llm-skills.alisonaquinas.com/>             |
 | 🔢 **TinyQuant**             | Tiny quantization toolkit for models                      | [better-with-models/TinyQuant](https://github.com/better-with-models/TinyQuant)               |
 | 📝 **markdownlint-obsidian** | Markdownlint configuration tuned for Obsidian vaults      | [alisonaquinas/markdownlint-obsidian](https://github.com/alisonaquinas/markdownlint-obsidian) |
 
