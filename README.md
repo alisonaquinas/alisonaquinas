@@ -9,10 +9,11 @@
 
 #### 🚀 Projects
 
-| Project                     | Description                                               | Link                                                                                          |
-| :-------------------------- | :-------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
-| 🤖 **LLM Plugins / Skills**  | Collection of plugins and skills for LLM-driven workflows | <https://llm-skills.alisonaquinas.com/>             |
-| 🔢 **TinyQuant**             | Tiny quantization toolkit for models                      | [better-with-models/TinyQuant](https://github.com/better-with-models/TinyQuant)               |
-| 📝 **markdownlint-obsidian** | Markdownlint configuration tuned for Obsidian vaults      | [alisonaquinas/markdownlint-obsidian](https://github.com/alisonaquinas/markdownlint-obsidian) |
+| Project                     | Description                                                                     | Link                                                                                          |
+| :-------------------------- | :------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------- |
+| 🤖 **LLM Plugins / Skills**  | Collection of plugins and skills for LLM-driven workflows                       | <https://llm-skills.alisonaquinas.com/>                                                       |
+| 🧵 **CommonLoom**            | Adapter-neutral TypeScript content pipeline for validated, traceable Markdown   | [alisonaquinas/commonloom](https://github.com/alisonaquinas/commonloom)                       |
+| 🔢 **TinyQuant**             | Tiny quantization toolkit for models                                            | [better-with-models/TinyQuant](https://github.com/better-with-models/TinyQuant)               |
+| 📝 **markdownlint-obsidian** | Markdownlint configuration tuned for Obsidian vaults                            | [alisonaquinas/markdownlint-obsidian](https://github.com/alisonaquinas/markdownlint-obsidian) |
 
 <meta name="google-site-verification" content="InUPLs_XcPHvHBT5Fx3BFEzxuO9sIpAOPzzq4yC3_Dw" />
